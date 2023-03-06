@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Follow on git
+          Follow me on git
         </a>
       </header>
     </div>
